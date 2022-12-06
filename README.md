@@ -41,7 +41,7 @@ npm run start
 Obtiene la información de un la cultura de **Grecia**, unicamente caracteristicas superficiales
 
 ```
-http://localhost:8080/inf
+https://ext-ap-griega-rbee-b-production.up.railway.app/inf
 ```
 
 Ejemplo:
