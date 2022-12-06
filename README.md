@@ -64,7 +64,7 @@ Ejemplo:
 Obtiene la información de las epocas de la cultura de **Grecia**
 
 ```
-http://localhost:8080/epocas
+https://ext-ap-griega-rbee-b-production.up.railway.app/epocas
 ```
 
 Ejemplo:
@@ -94,7 +94,7 @@ Ejemplo:
 Obtiene la información de las vestimentas de la cultura de **Grecia**
 
 ```
-http://localhost:8080/vestimentas
+https://ext-ap-griega-rbee-b-production.up.railway.app/vestimentas
 ```
 
 Ejemplo:
@@ -124,7 +124,7 @@ Ejemplo:
 Obtiene la información de las construcciones de la cultura de **Grecia**
 
 ```
-http://localhost:8080/construcciones
+https://ext-ap-griega-rbee-b-production.up.railway.app/construcciones
 ```
 
 Ejemplo:
@@ -153,7 +153,7 @@ Ejemplo:
 Obtiene la información de los relatos de la cultura de **Grecia**
 
 ```
-http://localhost:8080/relatos
+https://ext-ap-griega-rbee-b-production.up.railway.app/relatos
 ```
 
 Ejemplo:
