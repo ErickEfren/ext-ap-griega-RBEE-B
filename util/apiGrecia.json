@@ -1,0 +1,155 @@
+{
+  "inf": [
+    {
+      "lengua": "Griego",
+      "religion": "Helenismo",
+      "locacion": {
+        "inf": "La civilización griega surgió en la zona oriental del mar Mediterráneo. Se extendió por tres espacios fundamentales: la península de los Balcanes, las numerosas islas de los mares Jónico y Egeo, y las costas occidentales de Asia Menor (en la actual Turquía)",
+        "img": "assets/inf/locacion.jpg"
+      }
+    }
+  ],
+  "epocas": [
+    {
+      "nombre": "Época Arcaica",
+      "fecha": "800 a.C. - 490 a.C.",
+      "img": "assets/epocas/arcaica.jpg"
+    },
+    {
+      "nombre": "Época Clasica",
+      "fecha": "490 a.C. - 338 a.C.",
+      "img": "assets/epocas/clasica.jpg"
+    },
+    {
+      "nombre": "Época Helenistica",
+      "fecha": "338 a.C. - 146 a.C.",
+      "img": "assets/epocas/helenistica.jpg"
+    }
+  ],
+  "vestimentas": [
+    {
+      "prenda": "Quitón",
+      "img": "assets/vestimenta/chiton.png",
+      "inf": "Era la prenda de vestir comúnmente usada en la antigua Grecia, una túnica de tela ligera cerrada por una costura. Se diferenciaba del peplo en que estaba cerrado en los hombros por una fíbula o un broche."
+    },
+    {
+      "prenda": "Endimata y epiblamata",
+      "img": "assets/vestimenta/edimanta.png",
+      "inf": "eran dos tipos de vestidos femeninos de la antigua Grecia. El endimata era un vestido corto, de manga corta, que se usaba en la ciudad. El epiblamata era un vestido largo, de manga larga, que se usaba en el campo."
+    },
+    {
+      "prenda": "Spárgana",
+      "img": "assets/vestimenta/spargan.png",
+      "inf": "A los niños de pecho se les envolvía con una prendas llamadas spárgana, una suerte de fajas. Según Platón, a los niños se los envolvía en pañales para ayudar a que sus extremidades se desarrollasen adecuadamente. Se ha sugerido que la spárgana también serviría como pañales."
+    },
+    {
+      "prenda": "Quitonisco",
+      "img": "assets/vestimenta/quitonisco.png",
+      "inf": "En los vasos cerámicos los hombres se representaban con quitonisco cuando se dedican a actividades agrícolas y a la caza, o la llevaban bajo la armadura en las batallas. Encima de los quitoniscos también se podía llevar un quitón norma en versión larga."
+    },
+    {
+      "prenda": "Peplo",
+      "img": "assets/vestimenta/peplus.png",
+      "inf": "El peplo era una túnica de tela ligera cerrada por una costura. Se diferenciaba del quitón en que estaba abierto en los hombros. Se usaba tanto por hombres como por mujeres."
+    },
+    {
+      "prenda": "Himatión",
+      "img": "assets/vestimenta/himation.png",
+      "inf": "El himatión  era una simple prenda exterior que se llevaba sobre el peplo o quitón. Consistía en una tela rectangular pesada. para colocarlo se cubrían primero la espalda y los hombros dejando que cayeran por delante las dos puntas que formaban los dos ángulos inferiores del rectángulo de tela."
+    },
+    {
+      "prenda": "Clámide",
+      "img": "assets/vestimenta/clamide.png",
+      "inf": "La clámide era una pieza cuadrada o rectangular, sin costuras, echada sobre el hombro izquierdo. Los extremos abiertos se cruzaban hacia el hombro derecho y se sujetaban con una fíbula. Las esquinas que colgaban se mantenían rectas, como en el himatión, por medio de pesas cosidas a ellas."
+    },
+    {
+      "prenda": "Calzado",
+      "img": "assets/vestimenta/calzado.png",
+      "inf": "Las mujeres y los hombres solían usar sandalias, zapatillas, zapatos suaves o botas. En casa solían ir descalzos."
+    }
+  ],
+  "construcciones": [
+    {
+      "nombre": "El Partenón",
+      "pueblo": "Atenas",
+      "inf": "Su contruccion fué dedicado a la diosa de la ciudad de Atenas",
+      "caracteristicas": "Es conocido como el templo griego dórico más grande construido durante Pericles (447-432 a. C.).",
+      "img": "assets/edificaciones/partenon.png"
+    },
+    {
+      "nombre": "El Templo de Zeus",
+      "pueblo": "Olimpia",
+      "inf": "El templo de Zeus en Olimpia fue el santuario más importante de la antigua Grecia. Fue construido en el siglo VI a. C. y fue el lugar de culto de la diosa Hera, esposa de Zeus, y de los dioses Zeus, Poseidón y Hades.",
+      "caracteristicas": "El Templo de Zeus es de estilo corintio y su construcción duró más de 7 siglos. Hoy en día, sólo sobreviven 15 de las 104 columnas corintias.",
+      "img": "assets/edificaciones/zeus.png"
+    },
+    {
+      "nombre": "El Templo de Apolo",
+      "pueblo": "Delfos",
+      "inf": "El templo de Apolo en Delfos fue el santuario más importante de la antigua Grecia. Fue construido en el siglo VI a. C. y fue el lugar de culto de la diosa Hera, esposa de Zeus, y de los dioses Zeus, Poseidón y Hades.",
+      "caracteristicas": "En el siglo VI a. C. era conocido como el «Templo de los Alcmeónidas», en tributo a la familia ateniense que financió su reconstrucción después de un incendio que destruyó su estructura original. El nuevo edificio fue un templo de estilo dórico hexástilo de 6 x 15 columnas. Fue destruido en el año 373 a. C.",
+      "img": "assets/edificaciones/apolo.png"
+    },
+    {
+      "nombre": "El Erecteion",
+      "pueblo": "Atenas",
+      "inf": "Uno de los templos jónicos más famosos es el Erecteion, que se encuentra en el lado norte de la Acrópolis de Atenas.",
+      "caracteristicas": "El templo fue construido entre 421 y 407 a. C. y es conocido por su construcción distintiva, sostenida por seis figuras femeninas: las cariátides.",
+      "img": "assets/edificaciones/erecteion.png"
+    },
+    {
+      "nombre": "El Templo de Artemisa",
+      "pueblo": "Efeso",
+      "inf": "El Templo de Artemisa fue un templo ubicado en la ciudad de Éfeso, Turquía, dedicado a la diosa Artemisa, denominada Diana por los romanos. Su construcción fue comenzada por el rey Creso de Lidia y duró unos 120 años.",
+      "caracteristicas": "De grandes dimensiones y una bella y delicada arquitectura, es considerada una de las Siete Maravillas del Mundo Antiguo. El templo estaba compuesto por numerosos edificios, que los arqueólogos denominaron con letras sucesivas. El edificio más antiguo e importante era el D. El Templo de Artemisa fue destruido por un incendio, provocado por un hombre llamado Eróstrato, en el año 356 a. C.",
+      "img": "assets/edificaciones/artemisa.png"
+    },
+    {
+      "nombre": "El Teatro de Dionisio",
+      "pueblo": "Atenas",
+      "inf": "El Teatro de Dionisio fue el mayor teatro de la antigua Grecia, situado en la parte oriental de la vertiente sur de la Acrópolis de Atenas y formando parte de los témenos de Dioniso.",
+      "caracteristicas": "El teatro es considerado como el más antiguo teatro del mundo. Dedicado, como indica su nombre, a Dioniso, dios de las viñas y del teatro, inicialmente se rezaba en su honor alrededor del altar del templo y los espectadores se sentaban a los lados. Después, esos rituales se fueron convirtiendo en las tragedias clásicas de Esquilo, Sófocles, Eurípides y Aristófanes.",
+      "img": "assets/edificaciones/dionisio.png"
+    },
+    {
+      "nombre": "El Teatro de Epidauro",
+      "pueblo": "Epidauro",
+      "inf": "El teatro de Epidauro es un teatro antiguo de Argólida, edificado en el siglo iv a. C. , hacia el 350 a. C. para acoger las Asclepeia, concurso en honor del dios médico Asclepio.",
+      "caracteristicas": "Es el modelo de numerosos teatros griegos y, seguramente, el más icónico de todos ellos y considerado el más perfecto acusticamente.",
+      "img": "assets/edificaciones/epidauro.png"
+    },
+    {
+      "nombre": "Odeón",
+      "pueblo": "Atenas",
+      "inf": "En arquitectura clásica, se denomina Odeón al edificio teatral que se utilizaba en la Antigua Grecia y posteriormente en la Roma clásica para los acontecimientos musicales, que podían consistir tanto en las propias representaciones musicales como para canto y poesía, pero también para el teatro.",
+      "caracteristicas": "Se diferencian de los teatros porque estaban parcial o totalmente cubiertos y eran de pequeño tamaño. Provienen de Esparta y se tienen noticias de estos edificios desde los siglos VII a. C. y VI a. C.",
+      "img": "assets/edificaciones/odeon.png"
+    }
+  ],
+  "relatos": [
+    {
+      "titulo": "Cronos y el nacimiento de los dioses olímpicos",
+      "tipo": "Mito",
+      "contenido": "Después de castrar a Urano (el Cielo), Crono (Saturno) no demoró en convertirse en un déspota como Urano. Tomó por esposa a su hermana, Rea y procrearon a la primera generación de dioses: Hera, Deméter, Hestia, Poseidón y Hades. Resintiendo un levantamiento de sus hijos en su contra, Crono los devoraba tan pronto nacían. Cuando Rea engendró a Zeus, lo alumbró en secreto y lo entregó a los cuidados de Gea. Luego, en vez de darle el niño a Crono, le dio una piedra envuelta en pañales, y este se la tragó sin percatarse del engaño. Al crecer, Zeus se hizo emplear como copero de Cronos. Un día, le preparó al titán del tiempo un brebaje, tras el cual vomitó a todos los dioses. Los hermanos se unieron en contra de los titanes bajo el liderazgo de Zeus, a quienes vencieron y desterraron al Tártaro (un inframundo por debajo del infierno). De ese modo, Zeus se convirtió en el supremo de los dioses.",
+      "img": "assets/relatos/cronos.png"
+    },
+    {
+      "titulo": "El mito de Afrodita y Ares (Venus y Marte)",
+      "tipo": "Mito",
+      "contenido": "Cuenta el mito que Afrodita, diosa de la sensualidad y el amor, estaba casada con Hefesto, dios del fuego y herrero de los dioses. Pero la hermosa deidad se enamoró de Ares (Marte), el dios de la guerra. Apasionados el uno por el otro, consumaron su relación ilegítima, de lo cual fue testigo Apolo, el dios de las artes, la belleza y la luz. Apolo le informó a Hefesto lo ocurrido, y este ideó un plan para atrapar a Afrodita. Sigilosamente formó una red invisible en el lecho amatorio de los adúlteros. Al despertar, se vieron atrapados en la red, y Hefesto convocó a todos los dioses para que vieran por sí mismos la infamia de los amantes.",
+      "img": "assets/relatos/aresYafrodita.png"
+    },
+    {
+      "titulo": "El origen de Medusa",
+      "tipo": "Mito",
+      "contenido": "l origen de Medusa es incierto. La versión de la época helenística sostiene que Medusa era una gorgona mortal (monstruo femenino), hija de las deidades marinas Ceto y Forcis, y hermana de Esteno y Euríale, ambas gorgonas inmortales. Las gorgonas eran monstruos femeninos caracterizados por tener serpientes en vez de cabellera, alas de oro, manos de bronce y ojos con el poder de petrificar a quienes las miraran directamente. Las versiones más antiguas, anteriores a la época helenística, sostienen que Medusa era una doncella hermosa, y que rivalizaba con la belleza de Atenea. La diosa, por celos, la convirtió en gorgona. En La metamorfosis de Ovidio se describe a Medusa como una bella sacerdotisa del templo de Atenea. Medusa habría sido poseída en dicho templo por Poseidón, rival de Atenea. Como desagravio, esta la convertiría en gorgona y la desterraría. Medusa resultaría embarazada, tras lo cual Atenea encomendaría a Perseo su muerte.",
+      "img": "assets/relatos/medusa.png"
+    },
+    {
+      "titulo": "Fantasma de Esparta- Kratos",
+      "tipo": "Videojuego",
+      "contenido": "El ejército de Kratos era conocido por utilizar métodos de asesinato de extrema violencia, por lo que era uno de los ejércitos más temidos en toda Grecia, así el ejercito comandado por Kratos gano infinidad de batallas, pero un día llego un ejército que supero al de Kratos en número, Los Barbaros. Después de una sangrienta batalla y con un Kratos al borde de la muerte, prefiere sacrificar su propia alma antes que verse derrotado dentro del campo de batalla, así que como un último recurso antes de perecer, mira al cielo y grita” ¡ARES, DESTRUYE A MIS ENEMIGOS Y MI VIDA ES TUYA!”. De pronto las nubes se abrieron y Ares bajo del Olimpo, asesinando a todos los Barbaros dentro de la batalla y aceptando así, que Kratos se convirtiera en su esclavo, el dios de la guerra le da como armas las Espadas del Caos, espadas unidas a cadenas que serían fundidas a los brazos de Kratos. Así Kratos comenzó a cumplir muchas tareas sucias que le eran impuestas por Ares, quemando aldeas y asesinando a quien se le pusiera en frente no importando si eran niños o mujeres. Hasta que un día, en una de las tantas tareas que Ares le encomendó al espartano, llego a una aldea donde supuestamente se encuentra un templo de donde adoran a Atenea, cuando Kratos al fin llega a ese templo, un Oráculo le advierte que puede que sea la última oportunidad que Kratos tiene para huir de las ordenes de Ares, pues lo que se encontrara dentro será muchos más grande que su voluntad. Kratos hace caso omiso y entra para asesinar a todas las personas que estaban dentro, a todas incluyendo a su esposa e hija, Ares aparece frente al espartano para decirle que fue engañado por el propio Ares para eliminar a su hija y esposa, para así convertirse en el guerrero perfecto, el Oráculo, hace cenizas a la familia de Kratos y llevándolas en su piel, de ahí su color blanco.",
+      "img": "assets/relatos/kratos.png"
+    }
+  ]
+}
